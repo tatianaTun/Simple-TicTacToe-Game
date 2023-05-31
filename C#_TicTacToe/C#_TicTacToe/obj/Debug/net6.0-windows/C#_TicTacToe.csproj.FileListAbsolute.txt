@@ -1,0 +1,17 @@
+C:\Users\User\source\C#_repos\C#_TicTacToe\C#_TicTacToe\bin\Debug\net6.0-windows\C#_TicTacToe.exe
+C:\Users\User\source\C#_repos\C#_TicTacToe\C#_TicTacToe\bin\Debug\net6.0-windows\C#_TicTacToe.deps.json
+C:\Users\User\source\C#_repos\C#_TicTacToe\C#_TicTacToe\bin\Debug\net6.0-windows\C#_TicTacToe.runtimeconfig.json
+C:\Users\User\source\C#_repos\C#_TicTacToe\C#_TicTacToe\bin\Debug\net6.0-windows\C#_TicTacToe.dll
+C:\Users\User\source\C#_repos\C#_TicTacToe\C#_TicTacToe\bin\Debug\net6.0-windows\C#_TicTacToe.pdb
+C:\Users\User\source\C#_repos\C#_TicTacToe\C#_TicTacToe\obj\Debug\net6.0-windows\C#_TicTacToe.csproj.AssemblyReference.cache
+C:\Users\User\source\C#_repos\C#_TicTacToe\C#_TicTacToe\obj\Debug\net6.0-windows\C__TicTacToe.Form1.resources
+C:\Users\User\source\C#_repos\C#_TicTacToe\C#_TicTacToe\obj\Debug\net6.0-windows\C#_TicTacToe.csproj.GenerateResource.cache
+C:\Users\User\source\C#_repos\C#_TicTacToe\C#_TicTacToe\obj\Debug\net6.0-windows\C#_TicTacToe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\C#_repos\C#_TicTacToe\C#_TicTacToe\obj\Debug\net6.0-windows\C#_TicTacToe.AssemblyInfoInputs.cache
+C:\Users\User\source\C#_repos\C#_TicTacToe\C#_TicTacToe\obj\Debug\net6.0-windows\C#_TicTacToe.AssemblyInfo.cs
+C:\Users\User\source\C#_repos\C#_TicTacToe\C#_TicTacToe\obj\Debug\net6.0-windows\C#_TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\User\source\C#_repos\C#_TicTacToe\C#_TicTacToe\obj\Debug\net6.0-windows\C#_TicTacToe.dll
+C:\Users\User\source\C#_repos\C#_TicTacToe\C#_TicTacToe\obj\Debug\net6.0-windows\refint\C#_TicTacToe.dll
+C:\Users\User\source\C#_repos\C#_TicTacToe\C#_TicTacToe\obj\Debug\net6.0-windows\C#_TicTacToe.pdb
+C:\Users\User\source\C#_repos\C#_TicTacToe\C#_TicTacToe\obj\Debug\net6.0-windows\C#_TicTacToe.genruntimeconfig.cache
+C:\Users\User\source\C#_repos\C#_TicTacToe\C#_TicTacToe\obj\Debug\net6.0-windows\ref\C#_TicTacToe.dll
